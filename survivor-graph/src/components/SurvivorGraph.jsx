@@ -9,15 +9,21 @@ const SurvivorGraph = () => {
     const [nodeImages, setNodeImages] = useState(new Map());
     const [seasonLogoImages, setSeasonLogoImages] = useState(new Map());
     const [searchTerm, setSearchTerm] = useState('');
+    const [pathSearchTerm, setPathSearchTerm] = useState('');
     const [searchResults, setSearchResults] = useState([]);
+    const [pathSearchResults, setPathSearchResults] = useState([]);
+    const [searchDropdownPosition, setSearchDropdownPosition] = useState({ top: 0, left: 0 });
+    const [pathDropdownPosition, setPathDropdownPosition] = useState({ top: 0, left: 0 });
+    const [isSearchFocused, setIsSearchFocused] = useState(false);
+    const [isPathSearchFocused, setIsPathSearchFocused] = useState(false);
+    const searchInputRef = useRef(null);
+    const pathSearchInputRef = useRef(null);
     const [selectedPlayer, setSelectedPlayer] = useState(null);
     const [hoveredNode, setHoveredNode] = useState(null);
     const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 });
     const [pathStartPlayer, setPathStartPlayer] = useState(null);
     const [pathEndPlayer, setPathEndPlayer] = useState(null);
     const [shortestPaths, setShortestPaths] = useState(null);
-    const [pathSearchTerm, setPathSearchTerm] = useState('');
-    const [pathSearchResults, setPathSearchResults] = useState([]);
     const graphRef = useRef();
     const [isMenuCollapsed, setIsMenuCollapsed] = useState(false);
     const [isLoading, setIsLoading] = useState(true);
@@ -399,6 +405,34 @@ const SurvivorGraph = () => {
         setPathSearchResults(results);
     }, [pathSearchTerm]);
 
+    useEffect(() => {
+        const updatePositions = () => {
+            if (searchInputRef.current) {
+                const rect = searchInputRef.current.getBoundingClientRect();
+                setSearchDropdownPosition({ 
+                    top: rect.bottom - 8, 
+                    left: rect.left - 8
+                });
+            }
+            if (pathSearchInputRef.current) {
+                const rect = pathSearchInputRef.current.getBoundingClientRect();
+                setPathDropdownPosition({ 
+                    top: rect.bottom - 8, 
+                    left: rect.left - 8
+                });
+            }
+        };
+
+        updatePositions();
+        window.addEventListener('scroll', updatePositions);
+        window.addEventListener('resize', updatePositions);
+
+        return () => {
+            window.removeEventListener('scroll', updatePositions);
+            window.removeEventListener('resize', updatePositions);
+        };
+    }, []);
+
     return (
         <div style={{ 
             width: '100vw', 
@@ -447,297 +481,336 @@ const SurvivorGraph = () => {
             <div style={{ 
                 position: 'fixed',
                 top: '10px',
-                left: '10px',
                 zIndex: 999
             }}>
                 <div style={{
                     display: 'flex',
-                    transform: isMenuCollapsed ? 'translateX(-280px)' : 'translateX(0)',
-                    transition: 'transform 0.3s ease'
                 }}>
-                    <div style={{
-                        backgroundColor: 'rgba(255, 255, 255, 0.95)',
-                        padding: '12px',
-                        borderRadius: '8px',
-                        boxShadow: '0 2px 8px rgba(0,0,0,0.2)',
-                        width: '280px',
-                        maxWidth: '85vw',
-                        display: 'flex',
-                        flexDirection: 'column',
-                        gap: '10px',
-                        maxHeight: 'calc(98vh - 20px)',
-                        overflowY: 'auto',
-                        overflowX: 'hidden',
-                        WebkitOverflowScrolling: 'touch'
-                    }}>
-                        <button 
-                            onClick={() => setViewMode(viewMode === 'player' ? 'season' : 'player')}
-                            style={{
-                                padding: '8px 16px',
-                                backgroundColor: '#2196F3',
-                                color: 'white',
-                                border: 'none',
-                                borderRadius: '4px',
-                                cursor: 'pointer',
-                                width: '100%'
-                            }}
-                        >
-                            {viewMode === 'player' ? 'Switch to Season View' : 'Switch to Player View'}
-                        </button>
+                    {!isMenuCollapsed && (
+                        <div style={{
+                            backgroundColor: 'rgba(255, 255, 255, 0.95)',
+                            padding: '12px',
+                            borderRadius: '8px',
+                            boxShadow: '0 2px 8px rgba(0,0,0,0.2)',
+                            width: '280px',
+                            maxWidth: '85vw',
+                            display: 'flex',
+                            flexDirection: 'column',
+                            gap: '10px',
+                            maxHeight: 'calc(98vh - 20px)',
+                            overflowY: 'auto',
+                            overflowX: 'hidden',
+                            WebkitOverflowScrolling: 'touch'
+                        }}>
+                            <button 
+                                onClick={() => setViewMode(viewMode === 'player' ? 'season' : 'player')}
+                                style={{
+                                    padding: '8px 16px',
+                                    backgroundColor: '#2196F3',
+                                    color: 'white',
+                                    border: 'none',
+                                    borderRadius: '4px',
+                                    cursor: 'pointer',
+                                    width: '100%'
+                                }}
+                            >
+                                {viewMode === 'player' ? 'Switch to Season View' : 'Switch to Player View'}
+                            </button>
 
-                        {viewMode === 'player' && (
-                            <>
-                                <div 
-                                    onClick={() => setIsCondensed(!isCondensed)}
-                                    style={{
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        justifyContent: 'space-between',
-                                        padding: '8px',
-                                        backgroundColor: '#333',
-                                        borderRadius: '4px',
-                                        color: '#fff',
-                                        cursor: 'pointer',
-                                        userSelect: 'none'
-                                    }}
-                                >
-                                    <span>Condense Single-Season</span>
-                                    <input
-                                        type="checkbox"
-                                        checked={isCondensed}
-                                        onChange={() => setIsCondensed(!isCondensed)}
-                                        onClick={(e) => e.stopPropagation()}
+                            {viewMode === 'player' && (
+                                <>
+                                    <div 
+                                        onClick={() => setIsCondensed(!isCondensed)}
                                         style={{
-                                            width: '16px',
-                                            height: '16px',
-                                            cursor: 'pointer'
-                                        }}
-                                    />
-                                </div>
-
-                                <div style={{ position: 'relative' }}>
-                                    <input
-                                        type="text"
-                                        value={searchTerm}
-                                        onChange={(e) => setSearchTerm(e.target.value)}
-                                        placeholder="Search players..."
-                                        style={{
-                                            width: '100%',
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            justifyContent: 'space-between',
                                             padding: '8px',
-                                            borderRadius: '4px',
-                                            border: '1px solid #555',
-                                            boxSizing: 'border-box',
-                                            backgroundColor: '#444',
-                                            color: '#fff'
-                                        }}
-                                    />
-                                    {searchResults.length > 0 && (
-                                        <div style={{
-                                            position: 'absolute',
-                                            top: '100%',
-                                            left: 0,
-                                            right: 0,
                                             backgroundColor: '#333',
-                                            border: '1px solid #555',
                                             borderRadius: '4px',
-                                            marginTop: '4px',
-                                            boxShadow: '0 2px 4px rgba(0,0,0,0.2)',
-                                            zIndex: 2
-                                        }}>
-                                            {searchResults.map(name => (
-                                                <div
-                                                    key={name}
+                                            color: '#fff',
+                                            cursor: 'pointer',
+                                            userSelect: 'none'
+                                        }}
+                                    >
+                                        <span>Condense Single-Season</span>
+                                        <input
+                                            type="checkbox"
+                                            checked={isCondensed}
+                                            onChange={() => setIsCondensed(!isCondensed)}
+                                            onClick={(e) => e.stopPropagation()}
+                                            style={{
+                                                width: '16px',
+                                                height: '16px',
+                                                cursor: 'pointer'
+                                            }}
+                                        />
+                                    </div>
+
+                                    <div style={{ position: 'relative' }}>
+                                        <input
+                                            ref={searchInputRef}
+                                            type="text"
+                                            value={searchTerm}
+                                            onChange={(e) => setSearchTerm(e.target.value)}
+                                            onFocus={() => setIsSearchFocused(true)}
+                                            onBlur={() => setTimeout(() => setIsSearchFocused(false), 200)}
+                                            placeholder="Search players..."
+                                            style={{
+                                                width: '100%',
+                                                padding: '8px',
+                                                borderRadius: '4px',
+                                                border: '1px solid #555',
+                                                boxSizing: 'border-box',
+                                                backgroundColor: '#444',
+                                                color: '#fff'
+                                            }}
+                                        />
+                                        {searchResults.length > 0 && isSearchFocused && (
+                                            <div style={{
+                                                position: 'fixed',
+                                                top: searchDropdownPosition.top,
+                                                left: searchDropdownPosition.left,
+                                                width: searchInputRef.current?.offsetWidth,
+                                                backgroundColor: '#333',
+                                                border: '1px solid #555',
+                                                borderRadius: '4px',
+                                                marginTop: '2px',
+                                                boxShadow: '0 2px 4px rgba(0,0,0,0.2)',
+                                                zIndex: 9999
+                                            }}>
+                                                {searchResults.map(name => (
+                                                    <div
+                                                        key={name}
+                                                        onClick={() => {
+                                                            highlightPlayer(name);
+                                                            setSearchTerm('');
+                                                            setSearchResults([]);
+                                                        }}
+                                                        style={{
+                                                            padding: '8px',
+                                                            cursor: 'pointer',
+                                                            borderBottom: '1px solid #444',
+                                                            color: '#fff',
+                                                            backgroundColor: '#333',
+                                                            whiteSpace: 'nowrap',
+                                                            overflow: 'hidden',
+                                                            textOverflow: 'ellipsis'
+                                                        }}
+                                                    >
+                                                        {name}
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        )}
+                                    </div>
+
+                                    <div style={{ 
+                                        padding: '10px',
+                                        backgroundColor: '#333',
+                                        color: '#fff',
+                                        borderRadius: '4px'
+                                    }}>
+                                        <div style={{ fontWeight: 'bold', marginBottom: '8px', color: '#fff' }}>Find Path Between Players</div>
+                                        {(!pathStartPlayer || !pathEndPlayer) && (
+                                            <div style={{ position: 'relative', marginBottom: '8px' }}>
+                                                <input
+                                                    ref={pathSearchInputRef}
+                                                    type="text"
+                                                    value={pathSearchTerm}
+                                                    onChange={(e) => setPathSearchTerm(e.target.value)}
+                                                    onFocus={() => setIsPathSearchFocused(true)}
+                                                    onBlur={() => setTimeout(() => setIsPathSearchFocused(false), 200)}
+                                                    placeholder="Search paths..."
+                                                    style={{
+                                                        width: '100%',
+                                                        padding: '8px',
+                                                        borderRadius: '4px',
+                                                        border: '1px solid #555',
+                                                        boxSizing: 'border-box',
+                                                        backgroundColor: '#444',
+                                                        color: '#fff'
+                                                    }}
+                                                />
+                                                {pathSearchResults.length > 0 && isPathSearchFocused && (
+                                                    <div style={{
+                                                        position: 'fixed',
+                                                        top: pathDropdownPosition.top,
+                                                        left: pathDropdownPosition.left,
+                                                        width: pathSearchInputRef.current?.offsetWidth,
+                                                        backgroundColor: '#333',
+                                                        border: '1px solid #555',
+                                                        borderRadius: '4px',
+                                                        marginTop: '2px',
+                                                        boxShadow: '0 2px 4px rgba(0,0,0,0.2)',
+                                                        zIndex: 9999
+                                                    }}>
+                                                        {pathSearchResults.map(name => (
+                                                            <div
+                                                                key={name}
+                                                                onClick={() => {
+                                                                    if (!pathStartPlayer) {
+                                                                        setPathStartPlayer(name);
+                                                                    } else if (!pathEndPlayer) {
+                                                                        setPathEndPlayer(name);
+                                                                        findAllShortestPaths(pathStartPlayer, name);
+                                                                    }
+                                                                    setPathSearchTerm('');
+                                                                    setPathSearchResults([]);
+                                                                }}
+                                                                style={{
+                                                                    padding: '8px',
+                                                                    cursor: 'pointer',
+                                                                    borderBottom: '1px solid #444',
+                                                                    color: '#fff',
+                                                                    backgroundColor: '#333',
+                                                                    whiteSpace: 'nowrap',
+                                                                    overflow: 'hidden',
+                                                                    textOverflow: 'ellipsis'
+                                                                }}
+                                                            >
+                                                                {name}
+                                                            </div>
+                                                        ))}
+                                                    </div>
+                                                )}
+                                            </div>
+                                        )}
+                                        {pathStartPlayer && (
+                                            <div style={{ 
+                                                marginBottom: '8px',
+                                                padding: '8px',
+                                                fontSize: '14px',
+                                                color: '#fff',
+                                                backgroundColor: '#444',
+                                                borderRadius: '4px',
+                                                display: 'flex',
+                                                justifyContent: 'space-between',
+                                                alignItems: 'center'
+                                            }}>
+                                                <span>Start: {pathStartPlayer}</span>
+                                                <button
                                                     onClick={() => {
-                                                        highlightPlayer(name);
-                                                        setSearchTerm('');
-                                                        setSearchResults([]);
+                                                        setPathStartPlayer(null);
+                                                        setPathEndPlayer(null);
+                                                        setShortestPaths(null);
                                                     }}
                                                     style={{
-                                                        padding: '8px',
-                                                        cursor: 'pointer',
-                                                        borderBottom: '1px solid #444',
-                                                        color: '#fff',
-                                                        backgroundColor: '#333',
-                                                        ':hover': {
-                                                            backgroundColor: '#444'
-                                                        }
+                                                        padding: '2px 6px',
+                                                        backgroundColor: '#ff4444',
+                                                        color: 'white',
+                                                        border: 'none',
+                                                        borderRadius: '4px',
+                                                        cursor: 'pointer'
                                                     }}
                                                 >
-                                                    {name}
-                                                </div>
-                                            ))}
-                                        </div>
-                                    )}
-                                </div>
+                                                    ×
+                                                </button>
+                                            </div>
+                                        )}
+                                        {pathEndPlayer && (
+                                            <div style={{ 
+                                                marginBottom: '8px',
+                                                padding: '8px',
+                                                fontSize: '14px',
+                                                color: '#fff',
+                                                backgroundColor: '#444',
+                                                borderRadius: '4px',
+                                                display: 'flex',
+                                                justifyContent: 'space-between',
+                                                alignItems: 'center'
+                                            }}>
+                                                <span>End: {pathEndPlayer}</span>
+                                                <button
+                                                    onClick={() => {
+                                                        setPathEndPlayer(null);
+                                                        setShortestPaths(null);
+                                                    }}
+                                                    style={{
+                                                        padding: '2px 6px',
+                                                        backgroundColor: '#ff4444',
+                                                        color: 'white',
+                                                        border: 'none',
+                                                        borderRadius: '4px',
+                                                        cursor: 'pointer'
+                                                    }}
+                                                >
+                                                    ×
+                                                </button>
+                                            </div>
+                                        )}
+                                        {shortestPaths && shortestPaths.length > 0 && (
+                                            <div style={{
+                                                marginTop: '8px',
+                                                padding: '8px',
+                                                backgroundColor: '#333',
+                                                color: '#fff',
+                                                borderRadius: '4px',
+                                                fontSize: '14px'
+                                            }}>
+                                                <div>Found {shortestPaths.length} path{shortestPaths.length > 1 ? 's' : ''}</div>
+                                                <div>Length: {shortestPaths[0].length - 1} connections</div>
+                                                {shortestPaths.map((path, index) => (
+                                                    <div key={index} style={{
+                                                        marginTop: '4px',
+                                                        padding: '4px',
+                                                        backgroundColor: '#444',
+                                                        borderRadius: '2px'
+                                                    }}>
+                                                        {path.map((nodeId, i) => {
+                                                            // Get the display name
+                                                            let displayName = nodeId;
+                                                            if (nodeId.startsWith('Season ') && 
+                                                                (nodeId === getDisplayNodeId(pathStartPlayer) || nodeId === getDisplayNodeId(pathEndPlayer))) {
+                                                                displayName = nodeId === getDisplayNodeId(pathStartPlayer) ? pathStartPlayer : pathEndPlayer;
+                                                            }
 
-                                <div style={{ 
-                                    padding: '10px',
-                                    backgroundColor: '#333',
-                                    color: '#fff',
-                                    borderRadius: '4px'
-                                }}>
-                                    <div style={{ fontWeight: 'bold', marginBottom: '8px', color: '#fff' }}>Find Path Between Players</div>
-                                    {(!pathStartPlayer || !pathEndPlayer) && (
-                                        <div style={{ position: 'relative', marginBottom: '8px' }}>
-                                            <input
-                                                type="text"
-                                                value={pathSearchTerm}
-                                                onChange={(e) => setPathSearchTerm(e.target.value)}
-                                                placeholder={pathStartPlayer ? "Select end player..." : "Select start player..."}
-                                                style={{
-                                                    width: '100%',
-                                                    padding: '8px',
-                                                    borderRadius: '4px',
-                                                    border: '1px solid #555',
-                                                    boxSizing: 'border-box',
-                                                    backgroundColor: '#444',
-                                                    color: '#fff',
-                                                    '::placeholder': {
-                                                        color: '#aaa'
-                                                    }
-                                                }}
-                                            />
-                                            {pathSearchResults.length > 0 && (
-                                                <div style={{
-                                                    position: 'absolute',
-                                                    top: '100%',
-                                                    left: 0,
-                                                    right: 0,
-                                                    backgroundColor: '#333',
-                                                    border: '1px solid #555',
-                                                    borderRadius: '4px',
-                                                    marginTop: '4px',
-                                                    boxShadow: '0 2px 4px rgba(0,0,0,0.2)',
-                                                    zIndex: 2
-                                                }}>
-                                                    {pathSearchResults.map(name => (
-                                                        <div
-                                                            key={name}
-                                                            onClick={() => {
-                                                                if (!pathStartPlayer) {
-                                                                    setPathStartPlayer(name);
-                                                                } else if (!pathEndPlayer) {
-                                                                    setPathEndPlayer(name);
-                                                                    findAllShortestPaths(pathStartPlayer, name);
+                                                            // If this is not the last node, find shared seasons with next node
+                                                            if (i < path.length - 1) {
+                                                                const nextNodeId = path[i + 1];
+                                                                const currentPlayer = displayName.startsWith('Season ') ? null : displayName;
+                                                                const nextPlayer = nextNodeId.startsWith('Season ') ? null : nextNodeId;
+                                                                
+                                                                let sharedSeasons = [];
+                                                                if (currentPlayer && nextPlayer) {
+                                                                    // Both are players
+                                                                    const currentSeasons = survivorData.players[currentPlayer].seasons;
+                                                                    const nextSeasons = survivorData.players[nextPlayer].seasons;
+                                                                    sharedSeasons = currentSeasons.filter(s => nextSeasons.includes(s));
+                                                                } else if (currentPlayer) {
+                                                                    // Current is player, next is season
+                                                                    const season = parseInt(nextNodeId.split(' ')[1]);
+                                                                    if (survivorData.players[currentPlayer].seasons.includes(season)) {
+                                                                        sharedSeasons = [season];
+                                                                    }
+                                                                } else if (nextPlayer) {
+                                                                    // Current is season, next is player
+                                                                    const season = parseInt(displayName.split(' ')[1]);
+                                                                    if (survivorData.players[nextPlayer].seasons.includes(season)) {
+                                                                        sharedSeasons = [season];
+                                                                    }
                                                                 }
-                                                                setPathSearchTerm('');
-                                                                setPathSearchResults([]);
-                                                            }}
-                                                            style={{
-                                                                padding: '8px',
-                                                                cursor: 'pointer',
-                                                                borderBottom: '1px solid #444',
-                                                                color: '#fff',
-                                                                backgroundColor: '#333',
-                                                                ':hover': {
-                                                                    backgroundColor: '#444'
-                                                                }
-                                                            }}
-                                                        >
-                                                            {name}
-                                                        </div>
-                                                    ))}
-                                                </div>
-                                            )}
-                                        </div>
-                                    )}
-                                    {pathStartPlayer && (
-                                        <div style={{ 
-                                            marginBottom: '8px',
-                                            padding: '8px',
-                                            fontSize: '14px',
-                                            color: '#fff',
-                                            backgroundColor: '#444',
-                                            borderRadius: '4px',
-                                            display: 'flex',
-                                            justifyContent: 'space-between',
-                                            alignItems: 'center'
-                                        }}>
-                                            <span>Start: {pathStartPlayer}</span>
-                                            <button
-                                                onClick={() => {
-                                                    setPathStartPlayer(null);
-                                                    setPathEndPlayer(null);
-                                                    setShortestPaths(null);
-                                                }}
-                                                style={{
-                                                    padding: '2px 6px',
-                                                    backgroundColor: '#ff4444',
-                                                    color: 'white',
-                                                    border: 'none',
-                                                    borderRadius: '4px',
-                                                    cursor: 'pointer'
-                                                }}
-                                            >
-                                                ×
-                                            </button>
-                                        </div>
-                                    )}
-                                    {pathEndPlayer && (
-                                        <div style={{ 
-                                            marginBottom: '8px',
-                                            padding: '8px',
-                                            fontSize: '14px',
-                                            color: '#fff',
-                                            backgroundColor: '#444',
-                                            borderRadius: '4px',
-                                            display: 'flex',
-                                            justifyContent: 'space-between',
-                                            alignItems: 'center'
-                                        }}>
-                                            <span>End: {pathEndPlayer}</span>
-                                            <button
-                                                onClick={() => {
-                                                    setPathEndPlayer(null);
-                                                    setShortestPaths(null);
-                                                }}
-                                                style={{
-                                                    padding: '2px 6px',
-                                                    backgroundColor: '#ff4444',
-                                                    color: 'white',
-                                                    border: 'none',
-                                                    borderRadius: '4px',
-                                                    cursor: 'pointer'
-                                                }}
-                                            >
-                                                ×
-                                            </button>
-                                        </div>
-                                    )}
-                                    {shortestPaths && shortestPaths.length > 0 && (
-                                        <div style={{
-                                            marginTop: '8px',
-                                            padding: '8px',
-                                            backgroundColor: '#333',
-                                            color: '#fff',
-                                            borderRadius: '4px',
-                                            fontSize: '14px'
-                                        }}>
-                                            <div>Found {shortestPaths.length} path{shortestPaths.length > 1 ? 's' : ''}</div>
-                                            <div>Length: {shortestPaths[0].length - 1} connections</div>
-                                            {shortestPaths.map((path, index) => (
-                                                <div key={index} style={{ 
-                                                    marginTop: '4px',
-                                                    padding: '4px',
-                                                    backgroundColor: '#444',
-                                                    borderRadius: '2px'
-                                                }}>
-                                                    {path.map((nodeId, i) => {
-                                                        // If it's a season node, try to find if it's one of our target players
-                                                        if (nodeId.startsWith('Season ') && 
-                                                            (nodeId === getDisplayNodeId(pathStartPlayer) || nodeId === getDisplayNodeId(pathEndPlayer))) {
-                                                            return nodeId === getDisplayNodeId(pathStartPlayer) ? pathStartPlayer : pathEndPlayer;
-                                                        }
-                                                        return nodeId;
-                                                    }).join(' → ')}
-                                                </div>
-                                            ))}
-                                        </div>
-                                    )}
-                                </div>
-                            </>
-                        )}
-                    </div>
+
+                                                                return (
+                                                                    <span key={i}>
+                                                                        {displayName}
+                                                                        <span style={{ color: '#888' }}> (S{sharedSeasons.join(', S')}) → </span>
+                                                                    </span>
+                                                                );
+                                                            }
+                                                            
+                                                            // Last node
+                                                            return <span key={i}>{displayName}</span>;
+                                                        })}
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        )}
+                                    </div>
+                                </>
+                            )}
+                        </div>
+                    )}
 
                     <button
                         onClick={() => setIsMenuCollapsed(!isMenuCollapsed)}

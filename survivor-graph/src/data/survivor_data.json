@@ -1,0 +1,4594 @@
+{
+  "players": {
+    "Richard Hatch": {
+      "seasons": [
+        1,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/richard-hatch.jpg"
+    },
+    "Kelly Wiglesworth": {
+      "seasons": [
+        1,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelly-wiglesworth.jpg"
+    },
+    "Rudy Boesch": {
+      "seasons": [
+        1,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rudy-boesch.jpg"
+    },
+    "Susan Hawk": {
+      "seasons": [
+        1,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sue-hawk.jpg"
+    },
+    "Sean Kenniff": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sean-kenniff.jpg"
+    },
+    "Colleen Haskell": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/colleen-haskell.jpg"
+    },
+    "Gervase Peterson": {
+      "seasons": [
+        1,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gervase-peterson.jpg"
+    },
+    "Jenna Lewis": {
+      "seasons": [
+        1,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jenna-lewis.jpg"
+    },
+    "Greg Buis": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/greg-buis.jpg"
+    },
+    "Gretchen Cordy": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gretchen-cordy.jpg"
+    },
+    "Joel Klug": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joel-klug.jpg"
+    },
+    "Dirk Been": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dirk-been.jpg"
+    },
+    "Ramona Gray": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ramona-gray.jpg"
+    },
+    "Stacey Stillman": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stacey-stillman.jpg"
+    },
+    "B.b. Andersen": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bb-andersen.jpg"
+    },
+    "Sonja Christopher": {
+      "seasons": [
+        1
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sonja-christopher.jpg"
+    },
+    "Tina Wesson": {
+      "seasons": [
+        2,
+        8,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tina-wesson.jpg"
+    },
+    "Colby Donaldson": {
+      "seasons": [
+        2,
+        8,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/colby-donaldson.jpg"
+    },
+    "Keith Famie": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/keith-famie.jpg"
+    },
+    "Elisabeth Filarski": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/elisabeth-filarski.jpg"
+    },
+    "Rodger Bingham": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rodger-bingham.jpg"
+    },
+    "Amber Mariano": {
+      "seasons": [
+        2,
+        8,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/amber-brkich.jpg"
+    },
+    "Nick Brown": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nick-brown.jpg"
+    },
+    "Jerri Manthey": {
+      "seasons": [
+        2,
+        8,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jerri-manthey.jpg"
+    },
+    "Alicia Calaway": {
+      "seasons": [
+        2,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alicia-calaway.jpg"
+    },
+    "Jeff Varner": {
+      "seasons": [
+        2,
+        31,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeff-varner.jpg"
+    },
+    "Mike Skupin": {
+      "seasons": [
+        2,
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-skupin.jpg"
+    },
+    "Kimmi Kappenberg": {
+      "seasons": [
+        2,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kimmi-kappenberg.jpg"
+    },
+    "Mitchell Olson": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mitchell-olson.jpg"
+    },
+    "Maralyn Hershey": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/maralyn-hershey.jpg"
+    },
+    "Kel Gleason": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kel-gleason.jpg"
+    },
+    "Debb Eaton": {
+      "seasons": [
+        2
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/debb-eaton.jpg"
+    },
+    "Ethan Zohn": {
+      "seasons": [
+        3,
+        8,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ethan-zohn.jpg"
+    },
+    "Kim Johnson": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kim-johnson.jpg"
+    },
+    "Lex van den Berghe": {
+      "seasons": [
+        3,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lex-van-den-berghe.jpg"
+    },
+    "Big Tom Buchanan": {
+      "seasons": [
+        3,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tom-buchanan.jpg"
+    },
+    "Teresa Cooper": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/teresa-cooper.jpg"
+    },
+    "Kim Powers": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kim-powers.jpg"
+    },
+    "Frank Garrison": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/frank-garrison.jpg"
+    },
+    "Brandon Quinton": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brandon-quinton.jpg"
+    },
+    "Kelly Goldsmith": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelly-goldsmith.jpg"
+    },
+    "Clarence Black": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/clarence-black.jpg"
+    },
+    "Lindsey Richter": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lindsey-richter.jpg"
+    },
+    "Silas Gaither": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/silas-gaither.jpg"
+    },
+    "Linda Spencer": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/linda-spencer.jpg"
+    },
+    "Carl Bilancione": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/carl-bilancione.jpg"
+    },
+    "Jessie Camacho": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jessie-camacho.jpg"
+    },
+    "Diane Ogden": {
+      "seasons": [
+        3
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/diane-ogden.jpg"
+    },
+    "Vecepia Towery": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/vecepia-towery.jpg"
+    },
+    "Neleh Dennis": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/neleh-dennis.jpg"
+    },
+    "Kathy Vavrick-O'Brien": {
+      "seasons": [
+        4,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kathy-vavrick-obrien.jpg"
+    },
+    "Paschal English": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/paschal-english.jpg"
+    },
+    "Sean Rector": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sean-rector.jpg"
+    },
+    "Robert The General": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/robert-decanio.jpg"
+    },
+    "Tammy Leitner": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tammy-leitner.jpg"
+    },
+    "Zoe Zanidakis": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/zoe-zanidakis.jpg"
+    },
+    "John Carroll": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-carroll.jpg"
+    },
+    "Boston Rob Mariano": {
+      "seasons": [
+        4,
+        8,
+        20,
+        22,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/boston-rob-s22.jpg"
+    },
+    "Gina Crews": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gina-crews.jpg"
+    },
+    "Gabriel Cade": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gabriel-cade.jpg"
+    },
+    "Sarah Jones": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sarah-jones.jpg"
+    },
+    "Hunter Ellis": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hunter-ellis.jpg"
+    },
+    "Patricia Jackson": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/patricia-jackson.jpg"
+    },
+    "Peter Harkey": {
+      "seasons": [
+        4
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/peter-harkey.jpg"
+    },
+    "Brian Heidik": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brian-heidik.jpg"
+    },
+    "Clay Jordan": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/clay-jordan.jpg"
+    },
+    "Jan Gentry": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jan-gentry.jpg"
+    },
+    "Helen Glover": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/helen-glover.jpg"
+    },
+    "Ted Rogers": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ted-rogers.jpg"
+    },
+    "Jake Billingsley": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jake-billingsley.jpg"
+    },
+    "Penny Ramsey": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/penny-ramsey.jpg"
+    },
+    "Ken Stafford": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ken-stafford.jpg"
+    },
+    "Erin Collins": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/erin-collins.jpg"
+    },
+    "Shii Ann Huang": {
+      "seasons": [
+        5,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shii-ann-huang.jpg"
+    },
+    "Robb Zbacnik": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/robb-zbacnik.jpg"
+    },
+    "Stephanie Dill": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephanie-dill.jpg"
+    },
+    "Ghandia Johnson": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ghandia-johnson.jpg"
+    },
+    "Jed Hildebrand": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jed-hildebrand.jpg"
+    },
+    "Tanya Vance": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tanya-vance.jpg"
+    },
+    "John Raymond": {
+      "seasons": [
+        5
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-raymond.jpg"
+    },
+    "Jenna Morasca": {
+      "seasons": [
+        6,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jenna-morasca.jpg"
+    },
+    "Matthew von Ertfelda": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/matt-von-ertfelda.jpg"
+    },
+    "Rob Cesternino": {
+      "seasons": [
+        6,
+        8
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rob-cesternino.jpg"
+    },
+    "Butch Lockley": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/butch-lockley.jpg"
+    },
+    "Heidi Strobel": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/heidi-strobel.jpg"
+    },
+    "Christy Smith": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/christy-smith.jpg"
+    },
+    "Alex Bell": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alex-bell.jpg"
+    },
+    "Deena Bennett": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/deena-bennett.jpg"
+    },
+    "Dave Johnson": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dave-johnson.jpg"
+    },
+    "Roger Sexton": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/roger-sexton.jpg"
+    },
+    "Shawna Mitchell": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shawna-mitchell.jpg"
+    },
+    "Jeanne Hebert": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeanne-hebert.jpg"
+    },
+    "JoANNA Ward": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joanna-ward.jpg"
+    },
+    "Daniel Lue": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/daniel-lue.jpg"
+    },
+    "Janet Koth": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/janet-koth.jpg"
+    },
+    "Ryan Aiken": {
+      "seasons": [
+        6
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ryan-aiken.jpg"
+    },
+    "Sandra Diaz-Twine": {
+      "seasons": [
+        7,
+        20,
+        34,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sandra-diaz-twine.jpg"
+    },
+    "Lill Morris": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lill-morris.jpg"
+    },
+    "Jonny Fairplay": {
+      "seasons": [
+        7,
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jonny-fairplay.jpg"
+    },
+    "Darrah Johnson": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/darrah-johnson.jpg"
+    },
+    "Burton Roberts": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/burton-roberts.jpg"
+    },
+    "Christa Hastie": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/christa-hastie.jpg"
+    },
+    "Tijuana Bradley": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tijuana-bradley.jpg"
+    },
+    "Rupert Boneham": {
+      "seasons": [
+        7,
+        8,
+        20,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rupert-boneham.jpg"
+    },
+    "Ryan Opray": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ryan-opray.jpg"
+    },
+    "Andrew Savage": {
+      "seasons": [
+        7,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/andrew-savage.jpg"
+    },
+    "Osten Taylor": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/osten-taylor.jpg"
+    },
+    "Shawn Cohen": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shawn-cohen.jpg"
+    },
+    "Trish Dunn": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/trish-dunn.jpg"
+    },
+    "Michelle Tesauro": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michelle-tesauro.jpg"
+    },
+    "Ryan Shoulders": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ryan-shoulders.jpg"
+    },
+    "Nicole Delma": {
+      "seasons": [
+        7
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nicole-delma.jpg"
+    },
+    "Chris Daugherty": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chris-daugherty.jpg"
+    },
+    "Twila Tanner": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/twila-tanner.jpg"
+    },
+    "Scout Cloud Lee": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/scout-cloud-lee.jpg"
+    },
+    "Eliza Orlins": {
+      "seasons": [
+        9,
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/eliza-orlins.jpg"
+    },
+    "Julie Berry": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julie-berry.jpg"
+    },
+    "Ami Cusack": {
+      "seasons": [
+        9,
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ami-cusack.jpg"
+    },
+    "Leann Slaby": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/leann-slaby.jpg"
+    },
+    "Chad Crittenden": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chad-crittenden.jpg"
+    },
+    "Sarge Masters": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sarge-masters.jpg"
+    },
+    "Rory Freeman": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rory-freeman.jpg"
+    },
+    "John Kenney": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-kenney.jpg"
+    },
+    "Lisa Keiffer": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lisa-keiffer.jpg"
+    },
+    "Bubba Sampson": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bubba-sampson.jpg"
+    },
+    "Brady Finta": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brady-finta.jpg"
+    },
+    "Mia Galeotalanza": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mia-galeotalanza.jpg"
+    },
+    "John Palyok": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-palyok.jpg"
+    },
+    "Dolly Neely": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dolly-neely.jpg"
+    },
+    "Brook Geraghty": {
+      "seasons": [
+        9
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brook-geraghty.jpg"
+    },
+    "Tom Westman": {
+      "seasons": [
+        10,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tom-westman.jpg"
+    },
+    "Katie Gallagher": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/katie-gallagher.jpg"
+    },
+    "Ian Rosenberger": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ian-rosenberger.jpg"
+    },
+    "Jenn Lyon": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jenn-lyon.jpg"
+    },
+    "Caryn Groedel": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/caryn-groedel.jpg"
+    },
+    "Gregg Carey": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gregg-carey.jpg"
+    },
+    "Stephenie LaGrossa": {
+      "seasons": [
+        10,
+        11,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephenie-lagrossa.jpg"
+    },
+    "Janu Tornell": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/janu-tornell.jpg"
+    },
+    "Coby Archa": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/coby-archa.jpg"
+    },
+    "Bobby Jon Drinkard": {
+      "seasons": [
+        10,
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bobby-jon-drinkard.jpg"
+    },
+    "Ibrehem Rahman": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ibrehem-rahman.jpg"
+    },
+    "James Miller": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/james-miller.jpg"
+    },
+    "Angie Jakusz": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/angie-jakusz.jpg"
+    },
+    "Willard Smith": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/willard-smith.jpg"
+    },
+    "Kim Mullen": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kim-mullen.jpg"
+    },
+    "Jeff Wilson": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeff-wilson.jpg"
+    },
+    "Ashlee Ashby": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ashlee-ashby.jpg"
+    },
+    "Jolanda Jones": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jolanda-jones.jpg"
+    },
+    "Wanda Shirk": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/wanda-shirk.jpg"
+    },
+    "Jonathan Libby": {
+      "seasons": [
+        10
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jonathan-libby.jpg"
+    },
+    "Danni Boatwright": {
+      "seasons": [
+        11,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/danni-boatwright.jpg"
+    },
+    "Rafe Judkins": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rafe-judkins.jpg"
+    },
+    "Lydia Morales": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lydia-morales.jpg"
+    },
+    "Cindy Hall": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cindy-hall.jpg"
+    },
+    "Judd Sergeant": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/judd-sergeant.jpg"
+    },
+    "Gary Hogeboom": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gary-hogeboom.jpg"
+    },
+    "Jamie Newton": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jamie-newton.jpg"
+    },
+    "Brandon Bellinger": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brandon-bellinger.jpg"
+    },
+    "Amy O'Hara": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/amy-ohara.jpg"
+    },
+    "Brian Corridan": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brian-corridan.jpg"
+    },
+    "Margaret Bobonich": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/margaret-bobonich.jpg"
+    },
+    "Blake Towsley": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/blake-towsley.jpg"
+    },
+    "Brooke Struck": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brooke-struck.jpg"
+    },
+    "Brianna Varela": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brianna-varela.jpg"
+    },
+    "Morgan McDevitt": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/morgan-mcdevitt.jpg"
+    },
+    "Jim Lynch": {
+      "seasons": [
+        11
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jim-lynch.jpg"
+    },
+    "Aras Baskauskas": {
+      "seasons": [
+        12,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/aras-baskauskas.jpg"
+    },
+    "Danielle DiLorenzo": {
+      "seasons": [
+        12,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/danielle-dilorenzo.jpg"
+    },
+    "Terry Deitz": {
+      "seasons": [
+        12,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/terry-deitz.jpg"
+    },
+    "Cirie Fields": {
+      "seasons": [
+        12,
+        16,
+        20,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cirie-fields.jpg"
+    },
+    "Shane Powers": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shane-powers.jpg"
+    },
+    "Courtney Marit": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/courtney-marit.jpg"
+    },
+    "Bruce Kanegai": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bruce-kanegai.jpg"
+    },
+    "Sally Schumann": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sally-schumann.jpg"
+    },
+    "Austin Carty": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/austin-carty.jpg"
+    },
+    "Nick Stanbury": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nick-stanbury.jpg"
+    },
+    "Dan Barry": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dan-barry.jpg"
+    },
+    "Bob Dawg Mason": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bob-dawg-mason.jpg"
+    },
+    "Ruth Marie Milliman": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ruth-marie-milliman.jpg"
+    },
+    "Misty Giles": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/misty-giles.jpg"
+    },
+    "Melinda Hyder": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/melinda-hyder.jpg"
+    },
+    "Tina Scheer": {
+      "seasons": [
+        12
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tina-scheer.jpg"
+    },
+    "Yul Kwon": {
+      "seasons": [
+        13,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/yul-kwon.jpg"
+    },
+    "Ozzy Lusth": {
+      "seasons": [
+        13,
+        16,
+        23,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ozzy-lusth.jpg"
+    },
+    "Becky Lee": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/becky-lee.jpg"
+    },
+    "Sundra Oakley": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sundra-oakley.jpg"
+    },
+    "Adam Gentry": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/adam-gentry.jpg"
+    },
+    "Parvati Shallow": {
+      "seasons": [
+        13,
+        16,
+        20,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/parvati-shallow.jpg"
+    },
+    "Jonathan Penner": {
+      "seasons": [
+        13,
+        16,
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jonathan-penner.jpg"
+    },
+    "Candice Woodcock Cody": {
+      "seasons": [
+        13,
+        20,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/candice-woodcock.jpg"
+    },
+    "Nate Gonzalez": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nate-gonzalez.jpg"
+    },
+    "Jenny Guzon-Bae": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jenny-guzon-bae.jpg"
+    },
+    "Rebecca Borman": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rebecca-borman.jpg"
+    },
+    "Brad Virata": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brad-virata.jpg"
+    },
+    "Flica Smith": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jessica-smith.jpg"
+    },
+    "Cristina Coria": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cristina-coria.jpg"
+    },
+    "Cao Boi Bui": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cao-boi-bui.jpg"
+    },
+    "Stephannie Favor": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephannie-favor.jpg"
+    },
+    "J.p. Calderon": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jp-calderon.jpg"
+    },
+    "Cecilia Mansilla": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cecilia-mansilla.jpg"
+    },
+    "Billy Garcia": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/billy-garcia.jpg"
+    },
+    "Sekou Bunch": {
+      "seasons": [
+        13
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sekou-bunch.jpg"
+    },
+    "Earl Cole": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/earl-cole.jpg"
+    },
+    "Cassandra Franklin": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cassandra-franklin.jpg"
+    },
+    "Dreamz Herd": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dreamz-herd.jpg"
+    },
+    "Yau-man Chan": {
+      "seasons": [
+        14,
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/yau-man-chan.jpg"
+    },
+    "Boo Bernis": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/boo-bernis.jpg"
+    },
+    "Stacy Kimball": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stacy-kimball.jpg"
+    },
+    "Alex Angarita": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alex-angarita.jpg"
+    },
+    "Mookie Lee": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mookie-lee.jpg"
+    },
+    "Edgardo Rivera": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/edgardo-rivera.jpg"
+    },
+    "Michelle Yi": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michelle-yi.jpg"
+    },
+    "Lisi Linares": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lisi-linares.jpg"
+    },
+    "Rocky Reid": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rocky-reid.jpg"
+    },
+    "Anthony Robinson": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/anthony-robinson.jpg"
+    },
+    "Rita Verreos": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rita-verreos.jpg"
+    },
+    "Liliana Gomez": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/liliana-gomez.jpg"
+    },
+    "Gary Stritesky": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gary-stritesky.jpg"
+    },
+    "Sylvia Kwan": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sylvia-kwan.jpg"
+    },
+    "Erica Durousseau": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/erica-durousseau.jpg"
+    },
+    "Jessica deBen": {
+      "seasons": [
+        14
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jessica-deben.jpg"
+    },
+    "Todd Herzog": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/todd-herzog.jpg"
+    },
+    "Courtney Yates": {
+      "seasons": [
+        15,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/courtney-yates.jpg"
+    },
+    "Amanda Kimmel": {
+      "seasons": [
+        15,
+        16,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/amanda-kimmel.jpg"
+    },
+    "Denise Martin": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/denise-martin.jpg"
+    },
+    "Peih-gee Law": {
+      "seasons": [
+        15,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/peih-gee-law.jpg"
+    },
+    "Erik Huffman": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/erik-huffman.jpg"
+    },
+    "James Clement": {
+      "seasons": [
+        15,
+        16,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/james-clement.jpg"
+    },
+    "Frosti Zernow": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/frosti-zernow.jpg"
+    },
+    "Jean-robert Bellande": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jean-robert-bellande.jpg"
+    },
+    "Jaime Dugan": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jaime-dugan.jpg"
+    },
+    "Sherea Lloyd": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sherea-lloyd.jpg"
+    },
+    "Aaron Reisberger": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/aaron-reisberger.jpg"
+    },
+    "Dave Cruser": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dave-cruser.jpg"
+    },
+    "Leslie Nease": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/leslie-nease.jpg"
+    },
+    "Ashley Massaro": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ashley-massaro.jpg"
+    },
+    "Chicken Morris": {
+      "seasons": [
+        15
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chicken-morris.jpg"
+    },
+    "Natalie Bolton": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/natalie-bolton.jpg"
+    },
+    "Erik Reichenbach": {
+      "seasons": [
+        16,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/erik-reichenbach.jpg"
+    },
+    "Alexis Jones": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alexis-jones.jpg"
+    },
+    "Jason Siska": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jason-siska.jpg"
+    },
+    "Tracy Hughes-Wolf": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tracy-hughes-wolf.jpg"
+    },
+    "Kathy Sleckman": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kathy-sleckman.jpg"
+    },
+    "Chet Welch": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chet-welch.jpg"
+    },
+    "Joel Anderson": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joel-anderson.jpg"
+    },
+    "Mikey B Bortone": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mikey-bortone.jpg"
+    },
+    "Mary Sartain": {
+      "seasons": [
+        16
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mary-sartain.jpg"
+    },
+    "Bob Crowley": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bob-crowley.jpg"
+    },
+    "Susie Smith": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/susie-smith.jpg"
+    },
+    "Sugar Kiper": {
+      "seasons": [
+        17,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sugar-kiper.jpg"
+    },
+    "Matty Whitmore": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/matty-whitmore.jpg"
+    },
+    "Ken Hoang": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ken-hoang.jpg"
+    },
+    "Crystal Cox": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/crystal-cox.jpg"
+    },
+    "Corinne Kaplan": {
+      "seasons": [
+        17,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/corinne-kaplan.jpg"
+    },
+    "Randy Bailey": {
+      "seasons": [
+        17,
+        20
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/randy-bailey.jpg"
+    },
+    "Charlie Herschel": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/charlie-herschel.jpg"
+    },
+    "Marcus Lehman": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/marcus-lehman.jpg"
+    },
+    "Dan Kay": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dan-kay.jpg"
+    },
+    "Ace Gordon": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ace-gordon.jpg"
+    },
+    "Kelly Czarnecki": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelly-czarnecki.jpg"
+    },
+    "GC Brown": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gc-brown.jpg"
+    },
+    "Jacquie Berg": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jacquie-berg.jpg"
+    },
+    "Paloma Soto-Castillo": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/paloma-soto-castillo.jpg"
+    },
+    "Gillian Larson": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gillian-larson.jpg"
+    },
+    "Michelle Chase": {
+      "seasons": [
+        17
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michelle-chase.jpg"
+    },
+    "J.t. Thomas": {
+      "seasons": [
+        18,
+        20,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jt-thomas.jpg"
+    },
+    "Stephen Fishbach": {
+      "seasons": [
+        18,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephen-fishbach.jpg"
+    },
+    "Erinn Lobdell": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/erinn-lobdell.jpg"
+    },
+    "Taj Johnson-George": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/taj-johnson-george.jpg"
+    },
+    "Coach Wade": {
+      "seasons": [
+        18,
+        20,
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/coach-wade.jpg"
+    },
+    "Debbie Beebe": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/debbie-beebe.jpg"
+    },
+    "Sierra Reed": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sierra-reed.jpg"
+    },
+    "Tyson Apostol": {
+      "seasons": [
+        18,
+        20,
+        27,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tyson-apostol.jpg"
+    },
+    "Brendan Synnott": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brendan-synnott.jpg"
+    },
+    "Joe Dowdle": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joe-dowdle.jpg"
+    },
+    "Sydney Wheeler": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sydney-wheeler.jpg"
+    },
+    "Spencer Duhm": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/spencer-duhm.jpg"
+    },
+    "Sandy Burgin": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sandy-burgin.jpg"
+    },
+    "Jerry Sims": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jerry-sims.jpg"
+    },
+    "Candace Smith": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/candace-smith.jpg"
+    },
+    "Carolina Eastwood": {
+      "seasons": [
+        18
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/carolina-eastwood.jpg"
+    },
+    "Natalie White": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/natalie-white.jpg"
+    },
+    "Russell Hantz": {
+      "seasons": [
+        19,
+        20,
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/russell-hantz.jpg"
+    },
+    "Mick Trimming": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mick-trimming.jpg"
+    },
+    "Brett Clouser": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brett-clouser.jpg"
+    },
+    "Jaison Robinson": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jaison-robinson.jpg"
+    },
+    "Shambo Waters": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shambo-waters.jpg"
+    },
+    "Monica Padilla": {
+      "seasons": [
+        19,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/monica-padilla.jpg"
+    },
+    "Dave Ball": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dave-ball.jpg"
+    },
+    "John Fincher": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-fincher.jpg"
+    },
+    "Laura Morett": {
+      "seasons": [
+        19,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/laura-morett.jpg"
+    },
+    "Kelly Sharbaugh": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelly-sharbaugh.jpg"
+    },
+    "Erik Cardona": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/erik-cardona.jpg"
+    },
+    "Liz Kim": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/liz-kim.jpg"
+    },
+    "Russell Swan": {
+      "seasons": [
+        19,
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/russell-swan.jpg"
+    },
+    "Ashley Trainer": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ashley-trainer.jpg"
+    },
+    "Yasmin Giles": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/yasmin-giles.jpg"
+    },
+    "Ben Browning": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ben-browning.jpg"
+    },
+    "Betsy Bolan": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/betsy-bolan.jpg"
+    },
+    "Mike Borassi": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-borassi.jpg"
+    },
+    "Marisa Calihan": {
+      "seasons": [
+        19
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/marisa-calihan.jpg"
+    },
+    "Fabio Birza": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/fabio-birza.jpg"
+    },
+    "Chase Rice": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chase-rice.jpg"
+    },
+    "Sash Lenahan": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sash-lenahan.jpg"
+    },
+    "Holly Hoffman": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/holly-hoffman.jpg"
+    },
+    "Dan Lembo": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dan-lembo.jpg"
+    },
+    "Jane Bright": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jane-bright.jpg"
+    },
+    "Benry Henry": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/benry-henry.jpg"
+    },
+    "Purple Shinn": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelly-shinn.jpg"
+    },
+    "NaONKA Mixon": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/naonka-mixon.jpg"
+    },
+    "Brenda Lowe": {
+      "seasons": [
+        21,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brenda-lowe.jpg"
+    },
+    "Marty Piombo": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/marty-piombo.jpg"
+    },
+    "Alina Wilson": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alina-wilson.jpg"
+    },
+    "Jill Behm": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jill-behm.jpg"
+    },
+    "Yve Rojas": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/yve-rojas.jpg"
+    },
+    "Kelly Bruno": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelly-bruno.jpg"
+    },
+    "Tyrone Davis": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tyrone-davis.jpg"
+    },
+    "Jimmy T Tarantino": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jimmy-tarantino.jpg"
+    },
+    "Jimmy Johnson": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jimmy-johnson.jpg"
+    },
+    "Shannon Elkins": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shannon-elkins.jpg"
+    },
+    "Wendy DeSmidt-Kohlhoff": {
+      "seasons": [
+        21
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/wendy-kohlhoff.jpg"
+    },
+    "Phillip Sheppard": {
+      "seasons": [
+        22,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/phillip-sheppard.jpg"
+    },
+    "Natalie Tenerelli": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/natalie-tenerelli.jpg"
+    },
+    "Ashley Underwood": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ashley-underwood.jpg"
+    },
+    "Andrea Boehlke": {
+      "seasons": [
+        22,
+        26,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/andrea-boehlke.jpg"
+    },
+    "Mike Chiesl": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-chiesl.jpg"
+    },
+    "Matt Elrod": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/matt-elrod.jpg"
+    },
+    "Grant Mattos": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/grant-mattos.jpg"
+    },
+    "Ralph Kiser": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ralph-kiser.jpg"
+    },
+    "Steve Wright": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/steve-wright.jpg"
+    },
+    "Julie Wolfe": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julie-wolfe.jpg"
+    },
+    "David Murphy": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/david-murphy.jpg"
+    },
+    "Sarita White": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sarita-white.jpg"
+    },
+    "Stephanie Valencia": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephanie-valencia.jpg"
+    },
+    "Krista Klumpp": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/krista-klumpp.jpg"
+    },
+    "Kristina Kell": {
+      "seasons": [
+        22
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kristina-kell.jpg"
+    },
+    "Francesca Hogi": {
+      "seasons": [
+        22,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/francesca-hogi.jpg"
+    },
+    "Sophie Clarke": {
+      "seasons": [
+        23,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sophie-clarke.jpg"
+    },
+    "Albert Destrade": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/albert-destrade.jpg"
+    },
+    "Rick Nelson": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rick-nelson.jpg"
+    },
+    "Brandon Hantz": {
+      "seasons": [
+        23,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brandon-hantz.jpg"
+    },
+    "Edna Ma": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/edna-ma.jpg"
+    },
+    "John Cochran": {
+      "seasons": [
+        23,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-cochran.jpg"
+    },
+    "Whitney Duncan": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/whitney-duncan.jpg"
+    },
+    "Dawn Meehan": {
+      "seasons": [
+        23,
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dawn-meehan.jpg"
+    },
+    "Keith Tollefson": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/keith-tollefson.jpg"
+    },
+    "Jim Rice": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jim-rice.jpg"
+    },
+    "Christine Shields Markoski": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/christine-shields.jpg"
+    },
+    "Mikayla Wingle": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mikayla-wingle.jpg"
+    },
+    "Elyse Umemoto": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/elyse-umemoto.jpg"
+    },
+    "Stacey Powell": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stacey-powell.jpg"
+    },
+    "Papa Bear Caruso": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/papa-bear-caruso.jpg"
+    },
+    "Semhar Tadesse": {
+      "seasons": [
+        23
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/semhar-tadesse.jpg"
+    },
+    "Kim Spradlin": {
+      "seasons": [
+        24,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kim-spradlin.jpg"
+    },
+    "Sabrina Thompson": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sabrina-thompson.jpg"
+    },
+    "Chelsea Meissner": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chelsea-meissner.jpg"
+    },
+    "Christina Cha": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/christina-cha.jpg"
+    },
+    "Alicia Rosa": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alicia-rosa.jpg"
+    },
+    "Tarzan Smith": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tarzan-smith.jpg"
+    },
+    "Kat Edorsson": {
+      "seasons": [
+        24,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kat-edorsson.jpg"
+    },
+    "Troyzan Robertson": {
+      "seasons": [
+        24,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/troyzan-robertson.jpg"
+    },
+    "Leif Manson": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/leif-manson.jpg"
+    },
+    "Jay Byars": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jay-byars.jpg"
+    },
+    "Michael Jefferson": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michael-jefferson.jpg"
+    },
+    "Jonas Otsuji": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jonas-otsuji.jpg"
+    },
+    "Colton Cumbie": {
+      "seasons": [
+        24,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/colton-cumbie.jpg"
+    },
+    "Monica Culpepper": {
+      "seasons": [
+        24,
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/monica-culpepper.jpg"
+    },
+    "Bill Posley": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bill-posley.jpg"
+    },
+    "Matt Quinlan": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/matt-quinlan.jpg"
+    },
+    "Nina Acosta": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nina-acosta.jpg"
+    },
+    "Kourtney Moon": {
+      "seasons": [
+        24
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kourtney-moon.jpg"
+    },
+    "Denise Stapley": {
+      "seasons": [
+        25,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/denise-stapley.jpg"
+    },
+    "Lisa Whelchel": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lisa-whelchel.jpg"
+    },
+    "Malcolm Freberg": {
+      "seasons": [
+        25,
+        26,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/malcolm-freberg.jpg"
+    },
+    "Abi-maria Gomes": {
+      "seasons": [
+        25,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/abi-maria-gomes.jpg"
+    },
+    "Carter Williams": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/carter-williams.jpg"
+    },
+    "Pete Yurkowski": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/pete-yurkowski.jpg"
+    },
+    "Artis Silvester": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/artis-silvester.jpg"
+    },
+    "Jeff Kent": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeff-kent.jpg"
+    },
+    "RC Saint-Amour": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rc-st-amour.jpg"
+    },
+    "Katie Hanson": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/katie-hanson.jpg"
+    },
+    "Sarah Dawson": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sarah-dawson.jpg"
+    },
+    "Dana Lambert": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dana-lambert.jpg"
+    },
+    "Angie Layton": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/angie-layton.jpg"
+    },
+    "Roxy Morris": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/roxy-morris.jpg"
+    },
+    "Zane Knight": {
+      "seasons": [
+        25
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/zane-knight.jpg"
+    },
+    "Sherri Biethman": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sherri-biethman.jpg"
+    },
+    "Eddie Fox": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/eddie-fox.jpg"
+    },
+    "Reynold Toepfer": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/reynold-toepfer.jpg"
+    },
+    "Michael Snow": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michael-snow.jpg"
+    },
+    "Julia Landauer": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julia-landauer.jpg"
+    },
+    "Matt Bischoff": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/matt-bischoff.jpg"
+    },
+    "Laura Alexander": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/laura-alexander.jpg"
+    },
+    "Shamar Thomas": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shamar-thomas.jpg"
+    },
+    "Hope Driskill": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hope-driskill.jpg"
+    },
+    "Allie Pohevitz": {
+      "seasons": [
+        26
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/allie-pohevitz.jpg"
+    },
+    "Ciera Eastin": {
+      "seasons": [
+        27,
+        31,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ciera-eastin.jpg"
+    },
+    "Hayden Moss": {
+      "seasons": [
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hayden-moss.jpg"
+    },
+    "Katie Collins": {
+      "seasons": [
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/katie-collins.jpg"
+    },
+    "Caleb Bankston": {
+      "seasons": [
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/caleb-bankston.jpg"
+    },
+    "Vytas Baskauskas": {
+      "seasons": [
+        27,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/vytas-baskauskas.jpg"
+    },
+    "Laura Boneham": {
+      "seasons": [
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/laura-boneham.jpg"
+    },
+    "John Cody": {
+      "seasons": [
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-cody.jpg"
+    },
+    "Brad Culpepper": {
+      "seasons": [
+        27,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brad-culpepper.jpg"
+    },
+    "Marissa Peterson": {
+      "seasons": [
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/marissa-peterson.jpg"
+    },
+    "Rachel Foulger": {
+      "seasons": [
+        27
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rachel-foulger.jpg"
+    },
+    "Tony Vlachos": {
+      "seasons": [
+        28,
+        34,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tony-vlachos.jpg"
+    },
+    "Woo Hwang": {
+      "seasons": [
+        28,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/woo-hwang.jpg"
+    },
+    "Kass McQuillen": {
+      "seasons": [
+        28,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kass-mcquillen.jpg"
+    },
+    "Spencer Bledsoe": {
+      "seasons": [
+        28,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/spencer-bledsoe.jpg"
+    },
+    "Trish Hegarty": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/trish-hegarty.jpg"
+    },
+    "Tasha Fox": {
+      "seasons": [
+        28,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tasha-fox.jpg"
+    },
+    "Jefra Bland": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jefra-bland.jpg"
+    },
+    "Jeremiah Wood": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeremiah-wood.jpg"
+    },
+    "L.j. McKanas": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lj-mckanas.jpg"
+    },
+    "Morgan McLeod": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/morgan-mcleod.jpg"
+    },
+    "Sarah Lacina": {
+      "seasons": [
+        28,
+        34,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sarah-lacina.jpg"
+    },
+    "Alexis Maxwell": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alexis-maxwell.jpg"
+    },
+    "Lindsey Ogle": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lindsey-ogle.jpg"
+    },
+    "Cliff Robinson": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cliff-robinson.jpg"
+    },
+    "J'tia Taylor": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jtia-taylor.jpg"
+    },
+    "Brice Johnston": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brice-johnston.jpg"
+    },
+    "Garrett Adelstein": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/garrett-adelstein.jpg"
+    },
+    "David Samson": {
+      "seasons": [
+        28
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/david-samson.jpg"
+    },
+    "Natalie Anderson": {
+      "seasons": [
+        29,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/natalie-anderson.jpg"
+    },
+    "Jaclyn Schultz": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jaclyn-schultz.jpg"
+    },
+    "Missy Payne": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/missy-payne.jpg"
+    },
+    "Keith Nale": {
+      "seasons": [
+        29,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/keith-nale.jpg"
+    },
+    "Baylor Wilson": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/baylor-wilson.jpg"
+    },
+    "Jon Misch": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jon-misch.jpg"
+    },
+    "Alec Christy": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alec-christy.jpg"
+    },
+    "Reed Kelly": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/reed-kelly.jpg"
+    },
+    "Wes Nale": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/wes-nale.jpg"
+    },
+    "Jeremy Collins": {
+      "seasons": [
+        29,
+        31,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeremy-collins.jpg"
+    },
+    "Josh Canfield": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/josh-canfield.jpg"
+    },
+    "Julie McGee": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julie-mcgee.jpg"
+    },
+    "Dale Wentworth": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dale-wentworth.jpg"
+    },
+    "Kelley Wentworth": {
+      "seasons": [
+        29,
+        31,
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelley-wentworth.jpg"
+    },
+    "Drew Christy": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/drew-christy.jpg"
+    },
+    "John Rocker": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-rocker.jpg"
+    },
+    "Val Collins": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/val-collins.jpg"
+    },
+    "Nadiya Anderson": {
+      "seasons": [
+        29
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nadiya-anderson.jpg"
+    },
+    "Mike Holloway": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-holloway.jpg"
+    },
+    "Carolyn Rivera": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/carolyn-rivera.jpg"
+    },
+    "Will Sims": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/will-sims.jpg"
+    },
+    "Rodney Lavoie": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rodney-lavoie.jpg"
+    },
+    "Sierra Thomas": {
+      "seasons": [
+        30,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sierra-thomas.jpg"
+    },
+    "Dan Foley": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dan-foley.jpg"
+    },
+    "Tyler Fredrickson": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tyler-fredrickson.jpg"
+    },
+    "Shirin Oskooi": {
+      "seasons": [
+        30,
+        31
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shirin-oskooi.jpg"
+    },
+    "Jenn Brown": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jenn-brown.jpg"
+    },
+    "Joe Anglim": {
+      "seasons": [
+        30,
+        31,
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joe-anglim.jpg"
+    },
+    "Hali Ford": {
+      "seasons": [
+        30,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hali-ford.jpg"
+    },
+    "Kelly Remington": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kelly-remington.jpg"
+    },
+    "Joaquin Souberbielle": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joaquin-souberbielle.jpg"
+    },
+    "Max Dawson": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/max-dawson.jpg"
+    },
+    "Lindsey Cascaddan": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lindsey-cascaddan.jpg"
+    },
+    "Nina Poersch": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nina-poersch.jpg"
+    },
+    "Vince Sly": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/vince-sly.jpg"
+    },
+    "SO Kim": {
+      "seasons": [
+        30
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/so-kim.jpg"
+    },
+    "Michele Fitzgerald": {
+      "seasons": [
+        32,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michele-fitzgerald.jpg"
+    },
+    "Aubry Bracco": {
+      "seasons": [
+        32,
+        34,
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/aubry-bracco.jpg"
+    },
+    "Tai Trang": {
+      "seasons": [
+        32,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tai-trang.jpg"
+    },
+    "Cydney Gillon": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cydney-gillon.jpg"
+    },
+    "Joe Del Campo": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joe-del-campo.jpg"
+    },
+    "Kyle Jason": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kyle-jason.jpg"
+    },
+    "Julia Sokolowski": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julia-sokolowski.jpg"
+    },
+    "Scot Pollard": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/scot-pollard.jpg"
+    },
+    "Debbie Wanner": {
+      "seasons": [
+        32,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/debbie-wanner.jpg"
+    },
+    "Nick Maiorano": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nick-maiorano.jpg"
+    },
+    "Neal Gottlieb": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/neal-gottlieb.jpg"
+    },
+    "Peter Baggenstos": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/peter-baggenstos.jpg"
+    },
+    "Anna Khait": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/anna-khait.jpg"
+    },
+    "Alecia Holden": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alecia-holden.jpg"
+    },
+    "Caleb Reynolds": {
+      "seasons": [
+        32,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/caleb-reynolds.jpg"
+    },
+    "Liz Markham": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/liz-markham.jpg"
+    },
+    "Jennifer Lanzetti": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jennifer-lanzetti.jpg"
+    },
+    "Darnell Hamilton": {
+      "seasons": [
+        32
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/darnell-hamilton.jpg"
+    },
+    "Adam Klein": {
+      "seasons": [
+        33,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/adam-klein.jpg"
+    },
+    "Hannah Shapiro": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hannah-shapiro.jpg"
+    },
+    "Ken McNickle": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ken-mcnickle.jpg"
+    },
+    "David Wright": {
+      "seasons": [
+        33,
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/david-wright.jpg"
+    },
+    "Bret LaBelle": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bret-labelle.jpg"
+    },
+    "Jay Starrett": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jay-starrett.jpg"
+    },
+    "Sunday Burquest": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sunday-burquest.jpg"
+    },
+    "Will Wahl": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/will-wahl.jpg"
+    },
+    "Zeke Smith": {
+      "seasons": [
+        33,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/zeke-smith.jpg"
+    },
+    "Jessica Lewis": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jessica-lewis.jpg"
+    },
+    "Chris Hammons": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chris-hammons.jpg"
+    },
+    "Taylor Stocker": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/taylor-stocker.jpg"
+    },
+    "Michelle Schubert": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michelle-schubert.jpg"
+    },
+    "Michaela Bradshaw": {
+      "seasons": [
+        33,
+        34
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michaela-bradshaw.jpg"
+    },
+    "Figgy Figueroa": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jessica-figueroa.jpg"
+    },
+    "Cece Taylor": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cece-taylor.jpg"
+    },
+    "Lucy Huang": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lucy-huang.jpg"
+    },
+    "Paul Wachter": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/paul-wachter.jpg"
+    },
+    "Mari Takahashi": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mari-takahashi.jpg"
+    },
+    "Rachel Ako": {
+      "seasons": [
+        33
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rachel-ako.jpg"
+    },
+    "Ben Driebergen": {
+      "seasons": [
+        35,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ben-driebergen.jpg"
+    },
+    "Chrissy Hofbeck": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chrissy-hofbeck.jpg"
+    },
+    "Ryan Ulrich": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ryan-ulrich.jpg"
+    },
+    "Devon Pinto": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/devon-pinto.jpg"
+    },
+    "Mike Zahalsky": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-zahalsky.jpg"
+    },
+    "Ashley Nolan": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ashley-nolan.jpg"
+    },
+    "Lauren Rimmer": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lauren-rimmer.jpg"
+    },
+    "Joe Mena": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joe-mena.jpg"
+    },
+    "JP Hilsabeck": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jp-hilsabeck.jpg"
+    },
+    "Cole Medders": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cole-medders.jpg"
+    },
+    "Desi Williams": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/desi-williams.jpg"
+    },
+    "Jessica Johnston": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jessica-johnston.jpg"
+    },
+    "Ali Elliott": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ali-elliott.jpg"
+    },
+    "Roark Luskin": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/roark-luskin.jpg"
+    },
+    "Alan Ball": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alan-ball.jpg"
+    },
+    "Patrick Bolton": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/patrick-bolton.jpg"
+    },
+    "Simone Nguyen": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/simone-nguyen.jpg"
+    },
+    "Katrina Radke": {
+      "seasons": [
+        35
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/katrina-radke.jpg"
+    },
+    "Wendell Holland": {
+      "seasons": [
+        36,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/wendell-holland.jpg"
+    },
+    "Domenick Abbate": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/domenick-abbate.jpg"
+    },
+    "Laurel Johnson": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/laurel-johnson.jpg"
+    },
+    "Angela Perkins": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/angela-perkins.jpg"
+    },
+    "Donathan Hurley": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/donathan-hurley.jpg"
+    },
+    "Sebastian Noel": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sebastian-noel.jpg"
+    },
+    "Kellyn Bechtold": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kellyn-bechtold.jpg"
+    },
+    "Chelsea Townsend": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chelsea-townsend.jpg"
+    },
+    "Michael Yerger": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/michael-yerger.jpg"
+    },
+    "Jenna Bowman": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jenna-bowman.jpg"
+    },
+    "Desiree Afuye": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/desiree-afuye.jpg"
+    },
+    "Libby Vincek": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/libby-vincek.jpg"
+    },
+    "Chris Noble": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chris-noble.jpg"
+    },
+    "Bradley Kleihege": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bradley-kleihege.jpg"
+    },
+    "James Lim": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/james-lim.jpg"
+    },
+    "Stephanie Johnson": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephanie-johnson.jpg"
+    },
+    "Brendan Shapiro": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brendan-shapiro.jpg"
+    },
+    "Morgan Ricke": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/morgan-ricke.jpg"
+    },
+    "Jacob Derwin": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jacob-derwin.jpg"
+    },
+    "Stephanie Gonzalez": {
+      "seasons": [
+        36
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephanie-gonzalez.jpg"
+    },
+    "Nick Wilson": {
+      "seasons": [
+        37,
+        40
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nick-wilson.jpg"
+    },
+    "Mike White": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-white.jpg"
+    },
+    "Angelina Keeley": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/angelina-keeley.jpg"
+    },
+    "Kara Kay": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kara-kay.jpg"
+    },
+    "Alison Raybould": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alison-raybould.jpg"
+    },
+    "Davie Rickenbacker": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/davie-rickenbacker.jpg"
+    },
+    "Christian Hubicki": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/christian-hubicki.jpg"
+    },
+    "Gabby Pascuzzi": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gabby-pascuzzi.jpg"
+    },
+    "Carl Boudreaux": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/carl-boudreaux.jpg"
+    },
+    "Alec Merlino": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/alec-merlino.jpg"
+    },
+    "Dan Rengering": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dan-rengering.jpg"
+    },
+    "John Hennigan": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/john-hennigan.jpg"
+    },
+    "Elizabeth Olson": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/elizabeth-olson.jpg"
+    },
+    "Lyrsa Torres": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lyrsa-torres.jpg"
+    },
+    "Natalie Cole": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/natalie-cole.jpg"
+    },
+    "Natalia Azoqa": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/natalia-azoqa.jpg"
+    },
+    "BI Nguyen": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bi-nguyen.jpg"
+    },
+    "Jeremy Crawford": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeremy-crawford.jpg"
+    },
+    "Jessica Peet": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jessica-peet.jpg"
+    },
+    "Pat Cusack": {
+      "seasons": [
+        37
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/pat-cusack.jpg"
+    },
+    "Chris Underwood": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chris-underwood.jpg"
+    },
+    "Gavin Whitson": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gavin-whitson.jpg"
+    },
+    "Julie Rosenberg": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julie-rosenberg.jpg"
+    },
+    "Rick Devens": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rick-devens.jpg"
+    },
+    "Lauren O'Connell": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lauren-oconnell.jpg"
+    },
+    "Victoria Baamonde": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/victoria-baamonde.jpg"
+    },
+    "Aurora McCreary": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/aurora-mccreary.jpg"
+    },
+    "Ron Clark": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ron-clark.jpg"
+    },
+    "Wardog DaSilva": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/daniel-dasilva.jpg"
+    },
+    "Julia Carter": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julia-carter.jpg"
+    },
+    "Eric Hafemann": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/eric-hafemann.jpg"
+    },
+    "Reem Daly": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/reem-daly.jpg"
+    },
+    "Wendy Diaz": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/wendy-diaz.jpg"
+    },
+    "Keith Sowell": {
+      "seasons": [
+        38
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/keith-sowell.jpg"
+    },
+    "Tommy Sheehan": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tommy-sheehan.jpg"
+    },
+    "Dean Kowalski": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dean-kowalski.jpg"
+    },
+    "Noura Salman": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/noura-salman.jpg"
+    },
+    "Lauren Beck": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lauren-beck.jpg"
+    },
+    "Janet Carbin": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/janet-carbin.jpg"
+    },
+    "Dan Spilo": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dan-spilo.jpg"
+    },
+    "Elaine Stott": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/elaine-stott.jpg"
+    },
+    "Karishma Patel": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/karishma-patel.jpg"
+    },
+    "Elizabeth Beisel": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/elizabeth-beisel.jpg"
+    },
+    "Missy Byrd": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/missy-byrd.jpg"
+    },
+    "Aaron Meredith": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/aaron-meredith.jpg"
+    },
+    "Jamal Shipman": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jamal-shipman.jpg"
+    },
+    "Kellee Kim": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kellee-kim.jpg"
+    },
+    "Jack Nichting": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jack-nichting.jpg"
+    },
+    "Jason Linden": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jason-linden.jpg"
+    },
+    "Tom Laidlaw": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tom-laidlaw.jpg"
+    },
+    "Chelsea Walker": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chelsea-walker.jpg"
+    },
+    "Vince Moua": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/vince-moua.jpg"
+    },
+    "Molly Byman": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/molly-byman.jpg"
+    },
+    "Ronnie Bardah": {
+      "seasons": [
+        39
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ronnie-bardah.jpg"
+    },
+    "Erika Casupanan": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/erika-casupanan.jpg"
+    },
+    "Deshawn Radden": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/deshawn-radden.jpg"
+    },
+    "Xander Hastings": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/xander-hastings.jpg"
+    },
+    "Heather Aldret": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/heather-aldret.jpg"
+    },
+    "Ricard Foy\u00e9": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ricard-foye.jpg"
+    },
+    "Danny McCray": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/danny-mccray.jpg"
+    },
+    "Liana Wallace": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/liana-wallace.jpg"
+    },
+    "Shan Smith": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shan-smith.jpg"
+    },
+    "Evvie Jagoda": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/evvie-jagoda.jpg"
+    },
+    "Naseer Muttalif": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/naseer-muttalif.jpg"
+    },
+    "Tiffany Seely": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tiffany-seely.jpg"
+    },
+    "Sydney Segal": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sydney-segal.jpg"
+    },
+    "Genie Chen": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/genie-chen.jpg"
+    },
+    "JD Robinson": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jd-robinson.jpg"
+    },
+    "Brad Reese": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brad-reese.jpg"
+    },
+    "David Voce": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/david-voce.jpg"
+    },
+    "Sara Wilson": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sara-wilson.jpg"
+    },
+    "Eric Abraham": {
+      "seasons": [
+        41
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/eric-abraham.jpg"
+    },
+    "Maryanne Oketch": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/maryanne-oketch.jpg"
+    },
+    "Mike Turner": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-turner.jpg"
+    },
+    "Romeo Escobar": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/romeo-escobar.jpg"
+    },
+    "Jonathan Young": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jonathan-young.jpg"
+    },
+    "Lindsay Dolashewich": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lindsay-dolashewich.jpg"
+    },
+    "Omar Zaheer": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/omar-zaheer.jpg"
+    },
+    "Drea Wheeler": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/drea-wheeler.jpg"
+    },
+    "Hai Giang": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hai-giang.jpg"
+    },
+    "Tori Meehan": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tori-meehan.jpg"
+    },
+    "Rocksroy Bailey": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rocksroy-bailey.jpg"
+    },
+    "Chanelle Howell": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chanelle-howell.jpg"
+    },
+    "Lydia Meredith": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lydia-meredith.jpg"
+    },
+    "Daniel Strunk": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/daniel-strunk.jpg"
+    },
+    "Swati Goel": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/swati-goel.jpg"
+    },
+    "Jenny Kim": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jenny-kim.jpg"
+    },
+    "Marya Sherron": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/marya-sherron.jpg"
+    },
+    "Zach Wurtenberger": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/zach-wurtenberger.jpg"
+    },
+    "Jackson Fox": {
+      "seasons": [
+        42
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jackson-fox.jpg"
+    },
+    "Mike Gabler": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mike-gabler.jpg"
+    },
+    "Cassidy Clark": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cassidy-clark.jpg"
+    },
+    "Owen Knight": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/owen-knight.jpg"
+    },
+    "Jesse Lopez": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jesse-lopez.jpg"
+    },
+    "Karla Cruz Godoy": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/karla-godoy.jpg"
+    },
+    "Cody Assenmacher": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cody-assenmacher.jpg"
+    },
+    "Sami Layadi": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sami-layadi.jpg"
+    },
+    "Noelle Lambert": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/noelle-lambert.jpg"
+    },
+    "Ryan Medrano": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ryan-medrano.jpg"
+    },
+    "James Jones": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/james-jones.jpg"
+    },
+    "Jeanine Zheng": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jeanine-zheng.jpg"
+    },
+    "Dwight Moore": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dwight-moore.jpg"
+    },
+    "Elie Scott": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/elie-scott.jpg"
+    },
+    "Geo Bustamante": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/geo-bustamante.jpg"
+    },
+    "Lindsay Carmine": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lindsay-carmine.jpg"
+    },
+    "Nneka Ejere": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/nneka-ejere.jpg"
+    },
+    "Justine Brennan": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/justine-brennan.jpg"
+    },
+    "Morriah Young": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/morriah-young.jpg"
+    },
+    "Yam Yam Arocho": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/yamil-arocho.jpg"
+    },
+    "Heidi Lagares-Greenblatt": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/heidi-lagares-greenblatt.jpg"
+    },
+    "Carolyn Wiger": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/carolyn-wiger.jpg"
+    },
+    "Carson Garrett": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/carson-garrett.jpg"
+    },
+    "Lauren Harpe": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/lauren-harpe.jpg"
+    },
+    "Jaime Ruiz": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jaime-lynn-ruiz.jpg"
+    },
+    "Danny Massa": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/danny-massa.jpg"
+    },
+    "Frannie Marin": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/frannie-marin.jpg"
+    },
+    "Kane Fritzler": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kane-fritzler.jpg"
+    },
+    "Brandon Cottom": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brandon-cottom.jpg"
+    },
+    "Matt Blankinship": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/matt-blankinship.jpg"
+    },
+    "Josh Wilder": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/josh-wilder.jpg"
+    },
+    "Matthew Grinstead-Mayle": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/matt-grinstead-mayle.jpg"
+    },
+    "Sarah Wade": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sarah-wade.jpg"
+    },
+    "Claire Rafson": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/claire-rafson.jpg"
+    },
+    "Helen Li": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/helen-li.jpg"
+    },
+    "Maddy Pomilla": {
+      "seasons": [
+        43
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/maddy-pomilla.jpg"
+    },
+    "Bruce Perrault": {
+      "seasons": [
+        43,
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bruce-perrault.jpg"
+    },
+    "Dee Valladares": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/dee-valladares.jpg"
+    },
+    "Austin Li Coon": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/austin-li-coon.jpg"
+    },
+    "Jake O'Kane": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jake-okane.jpg"
+    },
+    "Katurah Topps": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/katurah-topps.jpg"
+    },
+    "Julie Alley": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/julie-alley.jpg"
+    },
+    "Drew Basile": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/drew-basile.jpg"
+    },
+    "Emily Flippen": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/emily-flippen.jpg"
+    },
+    "Kendra McQuarrie": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kendra-mcquarrie.jpg"
+    },
+    "Kellie Nalbandian": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kellie-nalbandian.jpg"
+    },
+    "Kaleb Gebrewold": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kaleb-gebrewold.jpg"
+    },
+    "Sifu Alsup": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sifu-alsup.jpg"
+    },
+    "J.maya Krishnan-Jha": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jmaya.jpg"
+    },
+    "Brando Meyer": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brando-meyer.jpg"
+    },
+    "Sean Edwards": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sean-edwards.jpg"
+    },
+    "Sabiyah Broderick": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sabiyah-broderick.jpg"
+    },
+    "Brandon Donlon": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/brandon-donlon.jpg"
+    },
+    "Hannah Rose": {
+      "seasons": [
+        45
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hannah-rose.jpg"
+    },
+    "Kenzie Petty": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kenzie-petty.jpg"
+    },
+    "Charlie Davis": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/charlie-davis.jpg"
+    },
+    "Ben Katzman": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/ben-katzman.jpg"
+    },
+    "Liz Wilcox": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/liz-wilcox.jpg"
+    },
+    "Maria Shrime Gonzalez": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/maria-shrime-gonzalez.jpg"
+    },
+    "Q Burdette": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/q-burdette.jpg"
+    },
+    "Venus Vafa": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/venus-vafa.jpg"
+    },
+    "Tiffany Ervin": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tiffany-ervin.jpg"
+    },
+    "Hunter McKnight": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/hunter-mcknight.jpg"
+    },
+    "Tevin Davis": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tevin-davis.jpg"
+    },
+    "Soda Thompson": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/soda-thompson.jpg"
+    },
+    "Tim Spicer": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tim-spicer.jpg"
+    },
+    "Moriah Gaynor": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/moriah-gaynor.jpg"
+    },
+    "Jem Hussain-Adams": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jem-hussain-adams.jpg"
+    },
+    "Bhanu Gopal": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bhanu-gopal.jpg"
+    },
+    "Randen Montalvo": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/randen-montalvo.jpg"
+    },
+    "Jess Chong": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jess-chong.jpg"
+    },
+    "David Jelinsky": {
+      "seasons": [
+        46
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/david-jelinsky.jpg"
+    },
+    "Rachel LaMont": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rachel-lamont.jpg"
+    },
+    "Sam Phalen": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sam-phalen.jpg"
+    },
+    "Sue Smey": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sue-smey.jpg"
+    },
+    "Teeny Chirichillo": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/teeny-chirichillo.jpg"
+    },
+    "Genevieve Mushaluk": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/genevieve-mushaluk.jpg"
+    },
+    "Andy Rueda": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/andy-rueda.jpg"
+    },
+    "Caroline Vidmar": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/caroline-vidmar.jpg"
+    },
+    "Kyle Ostwald": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kyle-ostwald.jpg"
+    },
+    "Gabe Ortis": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/gabe-ortis.jpg"
+    },
+    "Sol Yi": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/solomon-yi.jpg"
+    },
+    "Sierra Wright": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/sierra-wright.jpg"
+    },
+    "Tiyana Hallums": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tiyana-hallums.jpg"
+    },
+    "Rome Cooney": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/rome-cooney.jpg"
+    },
+    "Anika Dhar": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/anika-dhar.jpg"
+    },
+    "Kishan Patel": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kishan-patel.jpg"
+    },
+    "Aysha Welch": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/aysha-welch.jpg"
+    },
+    "TK Foster": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/tk-foster.jpg"
+    },
+    "Jon Lovett": {
+      "seasons": [
+        47
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/jon-lovett.jpg"
+    },
+    "Bianca Roses": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/bianca-roses.jpg"
+    },
+    "Cedrek McFadden": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/cedrek-mcfadden.jpg"
+    },
+    "Charity Nelms": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/charity-nelms.jpg"
+    },
+    "Chrissy Sarnowsky": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/chrissy-sarnowsky.jpg"
+    },
+    "David Kinne": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/david-kinne.jpg"
+    },
+    "Eva Erickson": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/eva-erickson.jpg"
+    },
+    "Joe Hunter": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/joe-hunter.jpg"
+    },
+    "Justin Pioppi": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/justin-pioppi.jpg"
+    },
+    "Kamilla Karthigesu": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kamilla-karthigesu.jpg"
+    },
+    "Kevin Leung": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kevin-leung.jpg"
+    },
+    "Kyle Fraser": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/kyle-fraser.jpg"
+    },
+    "Mary Zheng": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mary-zheng.jpg"
+    },
+    "Mitch Guerra": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/mitch-guerra.jpg"
+    },
+    "Saiounia Hughley": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/saiounia-hughley.jpg"
+    },
+    "Shauhin Davari": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/shauhin-davari.jpg"
+    },
+    "Star Toomey": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/star-toomey.jpg"
+    },
+    "Stephanie Berger": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/stephanie-berger.jpg"
+    },
+    "Thomas Krottinger": {
+      "seasons": [
+        48
+      ],
+      "image_url": "https://www.truedorktimes.com/survivor/cast/images/thomas-krottinger.jpg"
+    }
+  },
+  "season_logos": {
+    "1": "/logos/season_1.png",
+    "2": "/logos/season_2.png",
+    "3": "/logos/season_3.png",
+    "4": "/logos/season_4.png",
+    "5": "/logos/season_5.png",
+    "6": "/logos/season_6.png",
+    "7": "/logos/season_7.png",
+    "8": "/logos/season_8.png",
+    "9": "/logos/season_9.png",
+    "10": "/logos/season_10.png",
+    "11": "/logos/season_11.png",
+    "12": "/logos/season_12.png",
+    "13": "/logos/season_13.png",
+    "14": "/logos/season_14.png",
+    "15": "/logos/season_15.png",
+    "16": "/logos/season_16.png",
+    "17": "/logos/season_17.png",
+    "18": "/logos/season_18.png",
+    "19": "/logos/season_19.png",
+    "20": "/logos/season_20.png",
+    "21": "/logos/season_21.png",
+    "22": "/logos/season_22.png",
+    "23": "/logos/season_23.png",
+    "24": "/logos/season_24.png",
+    "25": "/logos/season_25.png",
+    "26": "/logos/season_26.png",
+    "27": "/logos/season_27.png",
+    "28": "/logos/season_28.png",
+    "29": "/logos/season_29.png",
+    "30": "/logos/season_30.png",
+    "31": "/logos/season_31.png",
+    "32": "/logos/season_32.png",
+    "33": "/logos/season_33.png",
+    "34": "/logos/season_34.png",
+    "35": "/logos/season_35.png",
+    "36": "/logos/season_36.png",
+    "37": "/logos/season_37.png",
+    "38": "/logos/season_38.png",
+    "39": "/logos/season_39.png",
+    "40": "/logos/season_40.png",
+    "41": "/logos/season_41.png",
+    "42": "/logos/season_42.png",
+    "43": "/logos/season_43.png",
+    "44": "/logos/season_44.png",
+    "45": "/logos/season_45.png",
+    "46": "/logos/season_46.png",
+    "47": "/logos/season_47.png",
+    "48": "/logos/season_48.png"
+  }
+}

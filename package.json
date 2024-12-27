@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-d3-graph": "^2.6.0"
+  }
+}

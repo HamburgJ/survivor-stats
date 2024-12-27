@@ -20,6 +20,7 @@ const SurvivorGraph = () => {
     const [pathSearchResults, setPathSearchResults] = useState([]);
     const graphRef = useRef();
     const [isMenuCollapsed, setIsMenuCollapsed] = useState(false);
+    const [isLoading, setIsLoading] = useState(true);
     
     // Fixed optimal values for graph parameters
     const BASE_NODE_SIZE = 6;  // Smaller base size for single-season players
@@ -59,6 +60,7 @@ const SurvivorGraph = () => {
     // Preload images
     useEffect(() => {
         const loadImages = async () => {
+            setIsLoading(true);
             const images = new Map();
             const logoImages = new Map();
 
@@ -89,6 +91,7 @@ const SurvivorGraph = () => {
 
             setNodeImages(images);
             setSeasonLogoImages(logoImages);
+            setIsLoading(false);
         };
         loadImages();
     }, []);
@@ -405,6 +408,42 @@ const SurvivorGraph = () => {
             top: 0,
             left: 0
         }}>
+            {isLoading && (
+                <div style={{
+                    position: 'fixed',
+                    top: 0,
+                    left: 0,
+                    right: 0,
+                    bottom: 0,
+                    backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    zIndex: 9999,
+                    color: 'white',
+                    fontSize: '20px'
+                }}>
+                    <div style={{
+                        width: '50px',
+                        height: '50px',
+                        border: '4px solid #f3f3f3',
+                        borderTop: '4px solid #2196F3',
+                        borderRadius: '50%',
+                        animation: 'spin 1s linear infinite',
+                        marginBottom: '20px'
+                    }} />
+                    <style>
+                        {`
+                        @keyframes spin {
+                            0% { transform: rotate(0deg); }
+                            100% { transform: rotate(360deg); }
+                        }
+                        `}
+                    </style>
+                    <div>Loading Survivor Network...</div>
+                </div>
+            )}
             <div style={{ 
                 position: 'fixed',
                 top: '10px',

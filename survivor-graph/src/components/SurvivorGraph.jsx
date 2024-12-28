@@ -412,14 +412,14 @@ const SurvivorGraph = () => {
                 const rect = searchInputRef.current.getBoundingClientRect();
                 setSearchDropdownPosition({ 
                     top: rect.bottom - 8, 
-                    left: rect.left - 8
+                    left: rect.left
                 });
             }
             if (pathSearchInputRef.current) {
                 const rect = pathSearchInputRef.current.getBoundingClientRect();
                 setPathDropdownPosition({ 
                     top: rect.bottom - 8, 
-                    left: rect.left - 8
+                    left: rect.left
                 });
             }
         };

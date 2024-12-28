@@ -6,9 +6,9 @@ Ever wondered how Survivor contestants are connected across different seasons? T
 
 ## What does it show?
 
-When contestants play in the same season, they form a connection. Over 45+ seasons of Survivor, these connections create an interesting web of relationships. For example, Boston Rob played with Sandra in Heroes vs. Villains (Season 20), and then Sandra played with Ozzy in Game Changers (Season 34), creating a chain of connections.
+When contestants play in the same season, they form a connection. Over 47+ seasons of Survivor, these connections create an interesting web of relationships. For example, Boston Rob played with Sandra in Heroes vs. Villains (Season 20), and then Sandra played with Ozzy in Game Changers (Season 34), creating a chain of connections.
 
-Similar to the "Six Degrees of Kevin Bacon" concept, this project analyzed the connections between all Survivor contestants. The analysis proved that any contestant from seasons 1-40 can be connected to any other contestant from those seasons in 5 or fewer steps (shared seasons).
+Similar to the "Six Degrees of Kevin Bacon" concept, I analyzed the connections between all Survivor contestants, and found that any contestant from seasons 1-40 can be connected to any other contestant from those seasons in 5 or fewer steps (shared seasons).
 
 ### Notes
 - To reduce clutter, single-season players are condensed into one node per season by default. You can still find paths to individual single-season players.

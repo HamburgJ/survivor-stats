@@ -10,10 +10,11 @@ class SurvivorScraper:
         self.base_url = "https://www.truedorktimes.com/survivor/cast/season{}-{}.htm"
         self.players: Dict[str, Dict[str, any]] = {}  # player_name -> {seasons: [], image_url: str}
         self.season_logos: Dict[int, str] = {}  # season_number -> logo_url
+        self.placements: Dict[str, Dict[int, int]] = {}  # player_name -> {season: placement}
         
-        # Initialize season logos with local file paths
+        # Initialize season logos with paths relative to the base URL
         self.season_logos = {
-            season: f"/logos/season_{season}.png"
+            season: f"/survivor-stats/logos/season_{season}.png"
             for season in range(1, 49)
         }
         
@@ -41,8 +42,9 @@ class SurvivorScraper:
         # Then process all files to build the complete dataset
         self.process_saved_files()
         
-        # Finally save the data
+        # Finally save both datasets
         self.save_data()
+        self.save_placements()
 
     def save_html_for_analysis(self):
         """Save HTML content locally for analysis"""
@@ -125,7 +127,6 @@ class SurvivorScraper:
                 if 'S' in alt_text:
                     try:
                         season_num = int(''.join(c for c in alt_text.split('S')[1] if c.isdigit()))
-                        # We don't need to grab the logo URL anymore since we're using hardcoded values
                     except (IndexError, ValueError):
                         pass
             
@@ -161,6 +162,10 @@ class SurvivorScraper:
             # Find all contestant entries in this season card
             contestant_entries = card.find_all('li', class_=['final', 'jury', 'generic'])
             
+            # Count total contestants for placement calculation
+            total_contestants = len(contestant_entries)
+            current_placement = total_contestants
+            
             for entry in contestant_entries:
                 link = entry.find('a')
                 if not link:
@@ -186,6 +191,11 @@ class SurvivorScraper:
                                     "image_url": image_url
                                 }
                             self.players[full_name]["seasons"].add(season_num)
+                            # Add placement data
+                            if full_name not in self.placements:
+                                self.placements[full_name] = {}
+                            self.placements[full_name][season_num] = current_placement
+                    current_placement -= 1
                     continue
                 
                 # Process each name part and combine
@@ -213,6 +223,12 @@ class SurvivorScraper:
                 self.players[full_name]["seasons"].add(season_num)
                 if image_url:  # Update image URL if we found one
                     self.players[full_name]["image_url"] = image_url
+                    
+                # Add placement data
+                if full_name not in self.placements:
+                    self.placements[full_name] = {}
+                self.placements[full_name][season_num] = current_placement
+                current_placement -= 1
 
     def save_data(self, filename: str = None):
         if filename is None:
@@ -250,6 +266,28 @@ class SurvivorScraper:
         
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2)
+
+    def save_placements(self, filename: str = None):
+        if filename is None:
+            # Create data directory if it doesn't exist
+            data_dir = "survivor-graph/src/data"
+            os.makedirs(data_dir, exist_ok=True)
+            filename = os.path.join(data_dir, "survivor_placements.json")
+
+        # Merge any duplicate entries that might exist
+        merged_placements = {}
+        for player, placements in self.placements.items():
+            if "Rob Mariano" in player:  # Special case for Boston Rob
+                key = "Boston Rob Mariano"
+            else:
+                key = player
+            
+            if key not in merged_placements:
+                merged_placements[key] = {}
+            merged_placements[key].update(placements)
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(merged_placements, f, indent=2)
 
 if __name__ == "__main__":
     scraper = SurvivorScraper()

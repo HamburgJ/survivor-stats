@@ -27,6 +27,7 @@ const SurvivorGraph = () => {
     const graphRef = useRef();
     const [isMenuCollapsed, setIsMenuCollapsed] = useState(false);
     const [isLoading, setIsLoading] = useState(true);
+    const simulationRef = useRef(null);
     
     // Fixed optimal values for graph parameters
     const BASE_NODE_SIZE = 6;  // Smaller base size for single-season players
@@ -843,17 +844,48 @@ const SurvivorGraph = () => {
                 nodeLabel={null}
                 width={window.innerWidth}
                 height={window.innerHeight}
+                onEngineStop={engine => {
+                    simulationRef.current = engine;
+                }}
                 onNodeDrag={(node, translate) => {
-                    // Enable smooth dragging on touch devices
-                    if (node) {
-                        node.fx = translate.x;
-                        node.fy = translate.y;
+                    if (node && simulationRef.current) {
+                        // Pause simulation during drag
+                        simulationRef.current.alphaTarget(0);
+                        
+                        console.log('Drag:', {
+                            node: node.id,
+                            translate,
+                            beforeFx: node.fx,
+                            beforeFy: node.fy,
+                            x: node.x,
+                            y: node.y
+                        });
+                        
+                        // Set both fixed and current positions
+                        node.x = node.fx = translate.x;
+                        node.y = node.fy = translate.y;
+                        
+                        console.log('After setting:', {
+                            afterFx: node.fx,
+                            afterFy: node.fy,
+                            afterX: node.x,
+                            afterY: node.y
+                        });
                     }
                 }}
                 onNodeDragEnd={node => {
-                    if (node) {
-                        node.fx = null;
-                        node.fy = null;
+                    if (node && simulationRef.current) {
+                        console.log('DragEnd:', {
+                            node: node.id,
+                            finalX: node.x,
+                            finalY: node.y,
+                            fx: node.fx,
+                            fy: node.fy
+                        });
+                        
+                        // Release node and restart simulation
+                        node.fx = node.fy = null;
+                        simulationRef.current.alphaTarget(0.1).restart();
                     }
                 }}
                 linkLabel={link => {
